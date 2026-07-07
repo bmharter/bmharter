@@ -1,57 +1,86 @@
 # Benjamin Harter
-### IT Professional | Aspiring Software Engineer | Java Enthusiast
+
+### Java-Focused Backend Developer | IT Professional | Software Engineering Candidate
+
+I am an IT professional transitioning into software development, with a focus on Java, Spring Boot, backend systems, and developer tooling.
+
+My current portfolio centers on two public projects:
+
+* **Content Distribution API** — a production-style Spring Boot REST API demonstrating backend engineering practices such as layered architecture, DTO validation, PostgreSQL persistence, Flyway migrations, Docker Compose, Testcontainers, integration testing, OpenAPI documentation, and GitHub Actions CI.
+* **Sephirah** — an Xtext-based expression language project demonstrating parser design, validation logic, type checking, editor integration, module/import handling, and compiler-style testing.
+
+My background combines practical operations leadership, troubleshooting, systems thinking, and self-directed software engineering study. I am especially interested in Java backend development, internal tools, QA automation, developer tooling, and systems that require clear validation and maintainable architecture.
 
 ---
 
-## About Me
-I am an IT professional with a background in humanities and a strong foundation in software engineering principles.  
-After completing three years toward a Bachelor of Arts in Humanities with a minor in Data Analytics at Arizona State University, I have continued to develop technical expertise in Java, Python, and systems design.  
+## Featured Projects
 
-I am currently pursuing CompTIA A+ certification and building personal software projects to strengthen my development and systems administration skills.  
-My long-term goal is to transition into a full-time software development career.
+### Content Distribution API
+
+A Spring Boot REST API for managing film content with CRUD operations, filtering, pagination, validation, PostgreSQL persistence, Flyway database migrations, Docker Compose, OpenAPI/Swagger documentation, automated tests, and GitHub Actions CI.
+
+**Highlights:**
+
+* Java 21 and Spring Boot
+* RESTful CRUD API
+* DTO-based request/response layer
+* PostgreSQL persistence with Spring Data JPA
+* Flyway schema migrations
+* Filtering, sorting, and pagination
+* Centralized exception handling
+* Docker Compose development environment
+* Unit, repository integration, and controller integration tests
+* Testcontainers-backed PostgreSQL testing
+* GitHub Actions CI pipeline
+
+**Repository:** https://github.com/bmharter/content-distribution-api
 
 ---
 
-## Current Projects
+### Sephirah
 
-### **MTG Inventory App**
-A full-stack Java-based application for managing Magic: The Gathering card inventories, featuring modular components for CSV processing, database integration, and collection analytics.  
+An Xtext-based expression language for readable, validated formulas and rule-system computations.
 
-### **Initiative Manager**
-A turn-based tracking utility designed for tabletop role-playing games, focused on clean UI and extensible rule logic for multiple systems.
+Sephirah is a deeper software architecture project focused on language tooling. It includes grammar design, expression parsing, variable and function declarations, static validation, type checking, module imports, editor feedback, and compiler-style tests.
+
+**Highlights:**
+
+* Xtext grammar and Eclipse editor integration
+* Expression parsing with arithmetic, boolean logic, conditionals, comparisons, constants, and function calls
+* Custom validation for duplicate symbols, unknown variables/functions, function arity, type mismatches, cyclic references, and invalid expressions
+* Module/import support
+* Compiler-style runtime evaluation layer
+* Automated tests for language behavior and module composition
+
+**Repository:** https://github.com/bmharter/sephirah
 
 ---
 
-## Languages & Tools
-Java • Python • SQL • VBA • Networking Fundamentals • Linux/Windows Support  
-Maven • Eclipse • Git • VS Code • SQLite • XText (DSL Development)
+## Technical Skills
+
+**Languages:** Java, Python, SQL, VBA
+**Backend:** Spring Boot, Spring Data JPA, REST APIs, DTO design, validation, exception handling
+**Databases:** PostgreSQL, SQLite, Flyway migrations
+**Testing:** JUnit 5, Mockito, integration testing, Testcontainers
+**Tools:** Maven, Git, GitHub Actions, Docker, Docker Compose, Eclipse, VS Code
+**Systems:** Linux/Windows support, networking fundamentals, troubleshooting
+**Special Interests:** Developer tooling, DSLs, parser/validator design, rule systems, backend architecture
 
 ---
 
-## Learning Focus
-I am currently deepening my skills in software engineering and systems development while preparing for the CompTIA A+ certification.  
-My next goals include earning the Security+ certification and continuing to advance toward a career in software development.
+## Current Learning Focus
+
+* Strengthening Java backend development
+* Expanding Spring Boot production-readiness skills
+* Preparing for CompTIA A+
+* Building portfolio projects that demonstrate practical software engineering ability
+* Continuing toward long-term software development roles
 
 ---
 
 ## Contact
-📍 Charlotte, NC  
-📧 **bmharterjs@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/benjamin-harter-4b235625/)  
-💻 [GitHub](https://github.com/bmharter)
 
-
-<!--
-**bmharter/bmharter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Charlotte, NC
+📧 [bmharterjs@gmail.com](mailto:bmharterjs@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/benjamin-harter-4b235625/
+💻 GitHub: https://github.com/bmharter
