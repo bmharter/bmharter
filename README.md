@@ -58,14 +58,13 @@ Sephirah is a deeper software architecture project focused on language tooling. 
 
 ## Technical Skills
 
-**Languages:** Java, Python, SQL, VBA
-**Backend:** Spring Boot, Spring Data JPA, REST APIs, DTO design, validation, exception handling
-**Databases:** PostgreSQL, SQLite, Flyway migrations
-**Testing:** JUnit 5, Mockito, integration testing, Testcontainers
-**Tools:** Maven, Git, GitHub Actions, Docker, Docker Compose, Eclipse, VS Code
-**Systems:** Linux/Windows support, networking fundamentals, troubleshooting
-**Special Interests:** Developer tooling, DSLs, parser/validator design, rule systems, backend architecture
-
+- **Languages:** Java, Python, SQL, VBA
+- **Backend:** Spring Boot, Spring Data JPA, REST APIs, DTO design, validation, exception handling
+- **Databases:** PostgreSQL, SQLite, Flyway migrations
+- **Testing:** JUnit 5, Mockito, integration testing, Testcontainers
+- **Tools:** Maven, Git, GitHub Actions, Docker, Docker Compose, Eclipse, VS Code
+- **Systems:** Linux/Windows support, networking fundamentals, troubleshooting
+- **Special Interests:** Developer tooling, DSLs, parser/validator design, rule systems, backend architecture
 ---
 
 ## Current Learning Focus
